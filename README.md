@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# Solana Volume bot updated
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+THis is a solana volume bot frontend with React.js + Vite
 
 Currently, two official plugins are available:
 
